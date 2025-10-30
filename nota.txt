@@ -1,0 +1,15 @@
+Importante -> |O meu usuario vai querer CONSULTAR, FILTRAR, AGRUPAR E COMPARAR DADOS|
+
+BACK-END:
+
+TODO: 1. Quais endpoint tenho que criar para esse desafio?
+R: 
+
+Endpoint GET - > Será o suficiente para fazer tudo que está proposto no desafio
+
+OBs.: Opcional caso o meu usuario queira add dashboard personalizado será necessario mas endpoint para funcionamento dessa aplicação (GET, POST, PUT, DELETE)
+
+TODO: 2. URL base - por enquanto HTTP, mas preciso ver como colocar no Ar
+
+
+TODO: 3. Como vou comunicar entre a minha aplicação com o meu BD dentro do Docker.
